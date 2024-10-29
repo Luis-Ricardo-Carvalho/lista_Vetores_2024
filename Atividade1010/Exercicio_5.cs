@@ -1,5 +1,5 @@
 using System;
-class Exercicio5
+class Exercicio_5
 {
     static void Main()
     {
